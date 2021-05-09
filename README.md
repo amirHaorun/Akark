@@ -6,7 +6,7 @@ Where you can find various Real Estates to choose from
 
 - User Manage His Personal Profile Info.
 - User Easily Manage his own RealEstates , and view other availbale realestate.
-- User Can Search through RealEstates By Differenct filters.
+- User Can Search through RealEstates By Different filters.
 - User Can access specific RealEstate's owner information to contact him.
 
 
