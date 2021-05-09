@@ -4,9 +4,9 @@
 Akark is a simple Online Real Estate Selling WebSite
 Where you can find various Real Estates to choose from 
 
-- User Can Update His Personal Profile Info.
-- User Can Add new RealEstates , Edit and delete his own One.
-- User Can Search through website By Category, Price,Size,Location.
+- User Manage His Personal Profile Info.
+- User Easily Manage his own RealEstates , and view other availbale realestate.
+- User Can Search through RealEstates By Differenct filters.
 - User Can access specific RealEstate's owner information to contact him.
 
 
