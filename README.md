@@ -1,6 +1,6 @@
 
 
-#Akark is a simple Online Real Estate Selling WebSite
+# Akark is a simple Online Real Estate Selling WebSite
 Where you can find various Real Estates to choose from 
 
 ## About Akark
